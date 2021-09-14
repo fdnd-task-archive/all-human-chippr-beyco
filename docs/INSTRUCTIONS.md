@@ -1,18 +1,17 @@
-# {Naam}
+# Beyco A11Y Audit
 
 De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
+Voor Beyco moet de accessibility verbeterd worden.
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Beyco A11Y Audit. Deze leertaak hoort bij Fix The Flow. Dit is een autonome opdracht die je individueel uitvoert voor HP2
 
 ## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
+HP2 is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. Beyco is een handelsplatform voor koffie over de hele wereld. Beyco wordt gebruikt over de hele wereld door veer verschillende mensen (kleurenblind, andere beperkingen, mensen die digitaal niet zo sterk zijn) in verschillende omgevingen (denk aan buiten in de zon met veel licht) en met behulp van oudere browsers en op verschillende devices (mobiel en laptop). 
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+Onderzoek het platform van Beyco en schrijf een adviesplan om HP2 te adviseren.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
