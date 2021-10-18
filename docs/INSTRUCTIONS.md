@@ -7,7 +7,7 @@ Deze leertaak hoort bij sprint **All Human**. Dit is een **autonomous** leertaak
 ## Briefing
 Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. Beyco is een handelsplatform voor koffie over de hele wereld.
 
-Het Beyco platform moet toegankelijk zijn voor iedereen. Onderzoek hoe je de Beyco website kan verbeteren en presenteer de bevindingen.
+Het Beyco platform moet toegankelijk zijn voor iedereen. Onderzoek hoe je de Beyco website kan verbeteren en presenteer aan de hand van een prototype hoe de verbeteringen in de website toegepast kunnen worden.
 
 ## Doel van deze opdracht
 Voer een web content accessibility guidelines controle uit op een website en presenteer je bevindingen.
