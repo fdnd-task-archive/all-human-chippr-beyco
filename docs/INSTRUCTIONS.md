@@ -21,13 +21,13 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td>Maandag</td>
         <td>25/10/2021</td>
         <td>13:00 uur *</td>
-        <td># Briefing</td>
+        <td>Briefing</td>
     </tr>
     <tr>
         <td>Maandag</td>
         <td>26/10/2021</td>
         <td>13:00 uur *</td>
-        <td># Debriefing</td>
+        <td>Debriefing</td>
     </tr>
     <tr>
         <td colspan="4">Week 2</td>
@@ -36,13 +36,13 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td>Maandag</td>
         <td>02/11/2021</td>
         <td>13:00 uur *</td>
-        <td># Feedbacksessie</td>
+        <td>Feedbacksessie</td>
     </tr>
     <tr>
         <td>Maandag</td>
         <td>04/11/2021</td>
         <td>13:00 uur *</td>
-        <td># Oplevering</td>
+        <td>Oplevering</td>
     </tr>
 </table>
 * vanaf 13:00 uur
