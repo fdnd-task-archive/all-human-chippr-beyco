@@ -45,6 +45,7 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td># Oplevering</td>
     </tr>
 </table>
+* vanaf 13:00 uur
 
 ## Werkwijze
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
