@@ -39,7 +39,7 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td>Feedbacksessie</td>
     </tr>
     <tr>
-        <td>Maandag</td>
+        <td>Donderdag</td>
         <td>04/11/2021</td>
         <td>13:00 uur *</td>
         <td>Oplevering</td>
