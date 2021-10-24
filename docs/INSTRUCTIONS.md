@@ -15,7 +15,7 @@ Voer een web content accessibility guidelines controle uit op een website en pre
 ## Planning
 <table>
     <tr>
-        <td colspan="4">Week 1</td>
+        <td colspan="4"><b>Week 1</b></td>
     </tr>
     <tr>
         <td>Maandag</td>
@@ -30,7 +30,7 @@ Voer een web content accessibility guidelines controle uit op een website en pre
         <td>Debriefing</td>
     </tr>
     <tr>
-        <td colspan="4">Week 2</td>
+        <td colspan="4"><b>Week 2</b></td>
     </tr>
     <tr>
         <td>Maandag</td>
